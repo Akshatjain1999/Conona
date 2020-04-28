@@ -12,7 +12,7 @@ As, There are many hackathons and competitions regarding covd-19 So, i tried to 
 For reference i took help from youtube sources.
 
 ## Installation
-To run this project, install it locally using npm:
+To run this project, install it locally using IDLE:
 
 ```
 Download all the files.
